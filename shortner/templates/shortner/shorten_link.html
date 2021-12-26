@@ -1,0 +1,11 @@
+{% extends 'shortner/base.html' %}
+
+{% block main %}
+<div class="main p-5">
+    <div class="alert alert-secondary text-center">
+        <a href="{% url 'redirect' slug %}">
+            <h4>{{shorten_link}}</h4>
+        </a>
+    </div>
+</div>
+{% endblock %}
