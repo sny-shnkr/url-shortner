@@ -1,7 +1,7 @@
 ## URL Shortner
 Web Application allows to reduce long links top sites on the Internet, just paste the long URL and click the Shorten URL button.
 
-Frontend: HTML,CSS and Bootstrap 
+Frontend: HTML,CSS and Bootstrap\
 Backend: Django
 
 
